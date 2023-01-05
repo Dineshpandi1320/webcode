@@ -1,0 +1,15 @@
+.container{
+    padding: 1rem;
+    box-sizing: border-box;
+    
+}
+
+.heading-container{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.css1{
+    background-color: teal;
+}
+
